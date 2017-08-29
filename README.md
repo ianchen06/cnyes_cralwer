@@ -6,4 +6,7 @@
 
 ## Quick Start
 
-1.  
+1. `sh ./bootstrap.sh`  
+1. `source cnyes_venv/bin/activate`
+1. `python db_seed.py`
+1. `python crawler.py`
