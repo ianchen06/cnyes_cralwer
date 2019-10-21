@@ -8,5 +8,5 @@ PyMySQL==0.7.11
 python-dateutil==2.6.1
 requests==2.18.4
 six==1.10.0
-urllib3==1.22
+urllib3==1.24.2
 webencodings==0.5.1
